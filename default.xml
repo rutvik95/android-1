@@ -14,6 +14,9 @@
   <remote  name="merk"
            review="review.merkmod.com"
            fetch="https://github.com/MerkMod" />
+           
+  <remote  name="ppl"
+           fetch="https://github.com/PupPeople" />
 
   <default revision="refs/tags/android-4.4.4_r1"
            remote="aosp"
