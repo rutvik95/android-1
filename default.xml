@@ -341,11 +341,11 @@
   <project path="packages/apps/OneTimeInitializer" name="platform/packages/apps/OneTimeInitializer" />
   <project path="packages/apps/OpenDelta" name="android_packages_apps_OpenDelta" remote="merk" revision="android-4.4" />
   <project path="packages/apps/PackageInstaller" name="android_packages_apps_PackageInstaller" remote="merk" revision="android-4.4" />
-  <project path="packages/apps/PerformanceControl" name="android_packages_apps_PerformanceControl" remote="merkmod" revision="android-4.4" />
+  <project path="packages/apps/PerformanceControl" name="android_packages_apps_PerformanceControl" remote="merk" revision="android-4.4" />
   <project path="packages/apps/PhoneCommon" name="platform/packages/apps/PhoneCommon" />
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" />
-  <project path="packages/apps/QuickSearchBox" name="android_packages_apps_QuickSearchBox" remote="merkmod" revision="android-4.4" />
-  <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="merkmod" revision="android-4.4" />
+  <project path="packages/apps/QuickSearchBox" name="android_packages_apps_QuickSearchBox" remote="merk" revision="android-4.4" />
+  <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="merk" revision="android-4.4" />
   <project path="packages/apps/SmartCardService" name="platform/packages/apps/SmartCardService" />
   <project path="packages/apps/SoundRecorder" name="platform/packages/apps/SoundRecorder" />
   <project path="packages/apps/SpareParts" name="platform/packages/apps/SpareParts" />
