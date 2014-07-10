@@ -55,6 +55,8 @@
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" groups="device" />
   <project path="device/sample" name="device/sample" groups="pdk" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" />
+  <project path="external/koush/Superuser" name="Cyanogenmod/Superuser" remote="github" revision="cm-11.0" />
+  <project path="external/koush/Widgets" name="koush/Widgets" remote="github" revision="cm-11.0" />
   <project path="external/aac" name="platform/external/aac" groups="pdk" />
   <project path="external/android-clat" name="platform/external/android-clat" />
   <project path="external/android-mock" name="platform/external/android-mock" />
