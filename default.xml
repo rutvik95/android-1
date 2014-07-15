@@ -340,7 +340,6 @@
   <project path="packages/apps/Mms" name="android_packages_apps_Mms" remote="merk" revision="android-4.4" />
   <project path="packages/apps/MusicFX" name="platform/packages/apps/MusicFX" />
   <project path="packages/apps/Nfc" name="android_packages_apps_Nfc" remote="merk" revision="android-4.4" />
-  <project path="packages/apps/OmniGears" name="android_packages_apps_OmniGears" remote="merk" revision="android-4.4" />
   <project path="packages/apps/OmniSwitch" name="android_packages_apps_OmniSwitch" remote="merk" revision="android-4.4" />
   <project path="packages/apps/OmniTorch" name="android_packages_apps_OmniTorch" remote="merk" revision="android-4.4" />
   <project path="packages/apps/OneTimeInitializer" name="platform/packages/apps/OneTimeInitializer" />
