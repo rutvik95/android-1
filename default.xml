@@ -18,7 +18,7 @@
   <remote  name="ppl"
            fetch="https://github.com/PupPeople" />
 
-  <default revision="refs/tags/android-4.4.4_r1"
+  <default revision="refs/tags/android-4.4.4_r2"
            remote="aosp"
            sync-c="true"
            sync-j="4" />
